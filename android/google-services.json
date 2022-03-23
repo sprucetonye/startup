@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573337673194",
+    "project_id": "prime-10c05",
+    "storage_bucket": "prime-10c05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573337673194:android:e6a254a8bf6e3a1d21a693",
+        "android_client_info": {
+          "package_name": "spruce.pillar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573337673194-9lnet9v3qe5ckev3dkrikf92q38s7ud9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr6zdRh0bvmcP_powjTAR8BnCi0HyXJRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573337673194-9lnet9v3qe5ckev3dkrikf92q38s7ud9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
